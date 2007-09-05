@@ -1,46 +1,19 @@
 {{Pays|
-nom_local1=Российская Федерация | langue1=ru |
-nom_local2=Rossiiskaïa Fédératsiya |
-nom_français=Fédération russe |
-de=de%20 |
-image_drapeau=Flag of Russia.svg |
-lien_drapeau=Drapeau de la Russie |
-image_blason=Coat of Arms of the Russian Federation.svg |
-lien_blason=Armoiries de la Russie |
-image_carte=LocationRussia.png |
-devise= aucune |
-langues=[[Russe]] <small><sup>1</sup></small> |
-capitale=[[Moscou]] |
-coordonnées_capitale=55° 45' N, 37° 42' E |
-lien_villes=Villes de Russie |
-titre_plus_grande_ville=Plus grande ville |
-plus_grande_ville=[[Moscou]] |
-type_gouvernement=[[République]] [[Confédération (organisation politique)|fédérale]] |
-titres_dirigeants=[[Liste des présidents de la Russie|Président]]<br />&nbsp;- [[Premiers ministres de la Russie|Premier ministre]] |
-noms_dirigeants=[[Vladimir Poutine]]<br />[[Mikhaïl Fradkov]] |
-superficie_rang=1 |
-superficie_totale={{formatnum:17075400}} |
-pourcentage_eau=0,5% |
-population_rang=8 |
-population_totale={{formatnum:142400000}}|
-population_année=2006 |
-densité=8,3 |
-type_indépendance=Déclaration de l'indépendance<br />vis-à-vis de l'URSS |
-pays_indépendance=&nbsp; |
-date_indépendance=[[12 juin]] [[1990]] |
-pays frontaliers={{CHN-d}} [[République populaire de Chine]]{{-}}{{KAZ-d}} [[Kazakhstan]]{{-}}{{MGL-d}} [[Mongolie]]{{-}}{{UKR-d}} [[Ukraine]]{{-}}{{NOR-d}} [[Norvège]]{{-}}{{FIN-d}} [[Finlande]]{{-}}{{POL-d}} [[Pologne]]{{-}}{{BLR-d}} [[Biélorussie]]{{-}}{{PRK-d}} [[Corée du Nord]]{{-}}{{AZE-d}} [[Azerbaïdjan]]{{-}}{{GEO-d}} [[Géorgie]]{{-}}{{LTU-d}} [[Lituanie]]{{-}}{{LAT-d}} [[Lettonie]]{{-}}{{EST-d}} [[Estonie]]|
-gentilé=Russe 
-| IDH_année=2004
-| IDH={{profit}} 0,797 
-| IDH_catégorie=moyen
-| IDH_rang=65{{e}} |
-monnaie=[[Rouble russe|Rouble]] |
-code_monnaie=RUB<small><sup></sup></small> |
-fuseau_horaire=+2 à +12 |
-hymne_national=[[Chanson patriotique]] (1990-2000)<br /><small></small>[[Hymne national de la Russie]] (depuis 2000) |
-domaine_internet=.ru <br /><small></sup></small> .su ([[Union soviétique]]) |
-indicatif_téléphonique=7 |
-notes=<small><sup>1</sup></small> de nombreuses autres langues ont également un statut officiel dans certaines des subdivisions de la Russie.
+| nom = Farāni<br/>Российская Федерация
+| drapeau = [[Image:Flag of Russia.svg|125px]]
+| blason = [[Image:Russia coa.png|120px]]
+| devise = -|
+| carte =  [[Image:LocationRussia.png|240px]]
+| langue = [[Reo ]] 
+| capitale =[[Moscou]]
+| km2 =  | pctwater = 
+| population =  
+| densité = 8,3 
+| monnaie =  | codeiso = 
+| fuseau =  
+| fete = 
+| hymne = [[Chanson patriotique]]
+| tel = +33
 }}
 
 [[Image:Flag of Russia.svg|right|200px]]
