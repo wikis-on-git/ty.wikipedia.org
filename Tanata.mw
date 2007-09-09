@@ -1,5 +1,71 @@
-[[Image:Canada_coa.png|right|99px]][[Image:Canadian_Blue_Ensign_1921.svg|right|99px]]Te fenua '''Tanata''', i [[Marite]]. ’O [[Ottawa]] te ’oire pū. ’O [[Elizabeth II]] te ari’i e.
-[[Image:Canada upper lower map.PNG|thumb|none]]
+{{Infobox Country
+|native_name                 = Canada
+|common_name                 = Canada
+|image_flag                  = Flag_of_Canada.svg 
+|image_coat                  = Coat of arms of Canada.svg
+|national_motto              = {{lang|la|''A Mari Usque Ad Mare''}}{{spaces|2}}<small>([[Latin]])<br/>"From Sea to Sea"</small>
+|national_anthem             = "[[O Canada]]"
+|royal_anthem                = "[[God Save the Queen]]"
+|image_map                   = Location Canada.svg
+|capital                     = [[Ottawa]]
+|latd=45 |latm=24 |latNS=N |longd=75 |longm=40 |longEW=W
+|largest_city                = [[Toronto]]
+|demonym                     = Canadian
+|official_languages          = [[Canadian English|English]], [[French in Canada|French]]
+|regional_languages          = [[Inuktitut]], [[Inuinnaqtun]], [[Dene Suline language|Dëne Sųłiné]], [[Cree language|Cree]], [[Gwich’in language|Gwich’in]], [[Inuvialuktun]], [[Slavey language|Slavey]], [[Dogrib language|Tłįchǫ Yatiì]]
+|government_type             = {{nowrap|[[Parliamentary democracy]]}} <small>{{nowrap|([[federal constitutional monarchy]])}}
+|leader_title1               = [[Monarchy in Canada|Monarch]]
+|leader_name1                = [[Elizabeth II of the United Kingdom|Queen Elizabeth II]]
+|leader_title2               = [[Governor General of Canada|Governor General]]
+|leader_name2                = [[Michaëlle Jean]]
+|leader_title3               = [[Prime Minister of Canada|Prime Minister]]
+|leader_name3                = [[Stephen Harper]]
+|sovereignty_type            = [[Canadian Confederation|Establishment]]
+|established_event1          = [[British North America Act]]
+|established_date1           = [[July 1]] [[1867]]
+|established_event2          = [[Statute of Westminster 1931|Statute of Westminster]]
+|established_date2           = [[December 11]] [[1931]]
+|established_event3          = [[Canada Act 1982|Canada Act]]
+|established_date3           = [[April 17]] [[1982]]
+|area                        = 9,984,670
+|areami²                     = 3,854,085 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                   = 2nd
+|area_magnitude              = 1 E12
+|percent_water               = 8.92 (891,163&nbsp;km²)
+|population_estimate         = {{formatnum:{{#expr: 32623340 + 327250/365 * {{Age in days|month1=7|day1=1|year1=2006}} round -2}} }}
+|population_estimate_year    = {{CURRENTYEAR}}
+|population_estimate_rank    = 36th
+|population_census           = 31,612,897
+|population_census_year      = 2006
+|population_density          = 3.2
+|population_densitymi²       = 8.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 219th
+|GDP_PPP_year                = 2006
+|GDP_PPP                     = $1.165 trillion
+|GDP_PPP_rank                = 11th
+|GDP_PPP_per_capita          = $35,600 
+|GDP_PPP_per_capita_rank     = 10th
+|GDP_nominal                 = $1.089 trillion
+|GDP_nominal_rank            = 8th
+|GDP_nominal_year            = 2006
+|GDP_nominal_per_capita      = $32,614
+|GDP_nominal_per_capita_rank = 16th
+|HDI_year                    = 2006
+|HDI                         = {{decrease}} 0.950
+|HDI_rank                    = 6th
+|HDI_category                = <font color="#009900">high</font>
+|currency                    = [[Canadian dollar]] ($) 
+|currency_code               = CAD
+|time_zone                   = 
+|utc_offset                  = -3.5 to -8
+|time_zone_DST               = 
+|utc_offset_DST              = -2.5 to -7
+|cctld                       = [[.ca]]
+|calling_code                = 1
+|footnotes                   = <big>'''[[Portal:Canada|Canada portal]]'''</big>
+}}
+
+Te fenua '''Tanata''', i [[Marite]]. ’O [[Ottawa]] te ’oire pū. ’O [[Elizabeth II]] te ari’i e.
 
 {{commons|Tanata}}
 
