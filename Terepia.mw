@@ -1,13 +1,13 @@
 {{Pays |
-| nom = Terepia<br />Srbija
+| nom = Terepia<br />{{reo*sr|Србија}}
 | drapeau = [[Fichier:Flag_of_Serbia.svg|125px]]
 | blason = [[Fichier:Coat of arms of Serbia.svg|120px]]
-| devise = Samo Sloga Srbina Spašava</br>Il n'y a que l'entente qui sauve les Serbes|
+| devise = {{reo*sr|Samo Sloga Srbina Spašava}}</br>{{reo*fr|Il n'y a que l'entente qui sauve les Serbes}}|
 | carte =  [[Fichier:LocationSerbia.png|240px]]
 | langue = [[Reo terepia]] 
 | capitale = [[Beograd]]
-| km2 = 88 361 | pctwater = 0,13
-| population =  10 150 265
+| km2 = 88361 | pctwater = 0.13
+| population =  10150265
 | densité = 104
 | monnaie = Dinar | codeiso = RSD
 | fuseau =  +1
@@ -16,7 +16,7 @@
 | tel = +381
 }}
 
-Te fenua '''Terepia''' i [[’Europa]]. ’O [[Beograd]] te ’oire pū. ’O [[Boris Tadić]] te peretiteni e. E te [[Reo Terepia]] nō Terepia. </small> 
+Te [[fenua]] '''Terepia''' ({{reo+sr|Србија|Srbija}}, {{reo*sr|Република Србија|Republika Srbija}}) i [[’Europa]]. ’O [[Beograd]] te ’oire pū. ’O [[Boris Tadić]] te peretiteni e. E te [[Reo Terepia]] nō Terepia. </small> 
 
 [[Fichier:Felix_romuliana.jpg]]
 
@@ -24,7 +24,7 @@ Te fenua '''Terepia''' i [[’Europa]]. ’O [[Beograd]] te ’oire pū. ’O [[
 
 [[Fichier:Maglic-7k.jpg|300px]]
 
-{{commons|Category:Serbia}}
+{{Commons|Category:Serbia}}
 == Te mau rēni nati reva ==
 * [http://www.predsednik.rs/ Председник Републике Србије]
 * [http://www.srbija.gov.rs/ Влада Републике Србије]
@@ -34,8 +34,11 @@ Te fenua '''Terepia''' i [[’Europa]]. ’O [[Beograd]] te ’oire pū. ’O [[
 * [http://www.serbiatouristguide.com/ Туристички водич кроз Србију]{{en}}
 * [http://www.suvenirisrbije.com/ Сувенири Србије]
 
+<!-- Catégories -->
+[[Catégorie:Terepia| ]]
 [[Catégorie:Fenua]]
 
+<!-- Interwikis -->
 [[ace:Sèrbia]]
 [[af:Serwië]]
 [[als:Serbien]]
