@@ -1,6 +1,6 @@
 {{Tāpura fenua
-| i’oa_ihotupu1=Puleʻanga Fakatuʻi ʻo Tonga
-| i’oa_ihotupu2=Kingdom of Tonga
+| i’oa_ihotupu1 = {{reo*to|Puleʻanga Fakatuʻi ʻo Tonga}}
+| i’oa_ihotupu2 = {{reo*en|Kingdom of Tonga}}
 | reo1=
 | reo2=
 | fa’ahitira’a1=
@@ -11,7 +11,7 @@
 | hōho’a_o_te_pīhi_/_’āti’a_’āi’a=Coat_of_arms_of_Tonga.svg
 | pīhi_/_’āti’a1=pīhi
 | pīhi_/_’āti’a2=Pīhi
-| parau_tumu=« Ko e ʻOtua mo Tonga ko hoku tofiʻa »<br /> (i te [[reo to’a]])<br />« God and Tonga are my Inheritance » (i te [[reo peretāne]])
+| parau_tumu=« {{reo*to|Ko e ʻOtua mo Tonga ko hoku tofiʻa}} »<br /> (i te [[reo to’a]])<br />« {{reo*en|God and Tonga are my Inheritance}} » (i te [[reo peretāne]])
 | hōho’a_fenua=LocationTonga.png
 | i’oa_o_te_fenua_rahi=te ao nei
 | pēni=#eeeeee
@@ -32,9 +32,9 @@
 | ’ōti’a=0
 | tahatai=419
 | huira’atira_’āna’i=Te 194 o te fenua
-| huira’atira_tā’āto’a=114 689
+| huira’atira_tā’āto’a=114689
 | huira’atira_matahiti=tiurai 2006
-| me’ume’u=139,3
+| me’ume’u=139.3
 | pēni=#eeeeee
 | fenua_o_te_ti’amāra’a=
 | huru_o_te_ti’amāra’a=
@@ -56,7 +56,7 @@
 | nūmera_niuniu=676
 | tāpa’ora’a=
 }}
-E fenua ’o '''To’a''' i [[Moana Pātitifā|Pātitifā Apato’a]]. ’O [[Nuku’alofa|Nukuʻalofa]] te ’oire pū i [[To’atapu]]. ’O [[Siaosi Tupou V]] te ari’i.
+E [[fenua]] ’o '''To’a''' ({{reo+to|Puleʻanga Fakatuʻi ʻo Tonga|Kingdom of Tonga}}) i [[Moana Pātitifā|Pātitifā Apato’a]]. ’O [[Nuku’alofa|Nukuʻalofa]] te ’oire pū i [[To’atapu]]. ’O [[Siaosi Tupou V]] te ari’i.
 
 == Te mau rēni nati reva ==
 {{Commons|Tonga}}
@@ -64,8 +64,11 @@ E fenua ’o '''To’a''' i [[Moana Pātitifā|Pātitifā Apato’a]]. ’O [[Nu
 * [http://www.matangitonga.to/article/global_index.shtml/ Matangi Tonga] news from Tonga
 * [http://dmoz.org/Regional/Oceania/Tonga Open Directory Project - ''Tonga''] directory category
 
+<!-- Catégories -->
+[[Catégorie:To’a| ]]
 [[Catégorie:Fenua]]
 
+<!-- Interwikis -->
 [[ace:Tonga]]
 [[af:Tonga]]
 [[an:Tonga]]
