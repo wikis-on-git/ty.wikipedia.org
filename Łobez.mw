@@ -2,6 +2,55 @@
 [[File:Łobez-Polska.png|thumb|Łobez - Poland]]
 E [[Poland]] te ’oire pū '''Łobez'''.
 
+<timeline>
+ImageSize = width:500 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:11000
+ScaleMajor = unit:year increment:11000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1680 from:0 till:800
+  bar:1740 from:0 till:1191
+  bar:1749 from:0 till:1339
+  bar:1831 from:0 till:2443
+  bar:1861 from:0 till:4756
+  bar:1895 from:0 till:5187
+  bar:1925 from:0 till:5994
+  bar:1933 from:0 till:6947
+  bar:1939 from:0 till:7310
+  bar:1945 from:0 till:1710
+  bar:1946 from:0 till:4144
+  bar:1957 from:0 till:6026
+  bar:1970 from:0 till:7355
+  bar:1990 from:0 till:10953
+  bar:2014 from:0 till:10440
+PlotData=
+  textcolor:black fontsize:S
+  bar:1680 at: 800 text: 0,8 shift:(0)
+  bar:1740 at: 1191 text: 1,2 shift:(0)
+  bar:1749 at: 1339 text: 1,3 shift:(0)
+  bar:1831 at: 2443 text: 2,4 shift:(0)
+  bar:1861 at: 4756 text: 4,8 shift:(0)
+  bar:1895 at: 5187 text: 5,2 shift:(0)
+  bar:1925 at: 5994 text: 6 shift:(0)
+  bar:1933 at: 6947 text: 7 shift:(0)
+  bar:1939 at: 7310 text: 7,3 shift:(0)
+  bar:1945 at: 1710 text: 1,7 shift:(0)
+  bar:1946 at: 4144 text: 4,1 shift:(0)
+  bar:1957 at: 6026 text: 6 shift:(0)
+  bar:1970 at: 7355 text: 7,4 shift:(0)
+  bar:1990 at: 10953 text:11 shift:(0)
+  bar:2014 at: 10440 text:10,4 shift:(0)
+  </timeline>
 {{commons|Category:Łobez}}
 
 [[Catégorie:’Oire]]
