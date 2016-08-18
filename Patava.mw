@@ -1,7 +1,81 @@
+{{variante|AY}}
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Warszawa''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:POL Warszawa COA.svg|100px]]
+| align="center" width="140px" | [[File:POL Warszawa map.svg|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Warsaw montage.JPG|250px]]
+|}
 [[Fichier:FB_Warszawa_panorama.jpg|thumb|right|250px|]]
-[[Fichier:Flag of Warsaw.svg|thumb|120px|right|]]
-’O '''Patava''' (''Warszawa'') te ’oire pū no [[Pōrana]].
 
+’O '''Patava''' (''Warszawa'') te ’oire pū no [[Pōrana]].
+* Huira’atira: 1,744,351 (2015)
+* Superficie: 517 km²
+
+== Huira’atira ==
+<timeline>
+ImageSize = width:750 height:280
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1750
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:left
+ bar:1700 from:0 till:39
+ bar:1800 from:0 till:63
+ bar:1830 from:0 till:140
+ bar:1850 from:0 till:164
+ bar:1882 from:0 till:383
+ bar:1900 from:0 till:686
+ bar:1925 from:0 till:1003
+ bar:1939 from:0 till:1289
+ bar:1946 from:0 till:479
+ bar:1955 from:0 till:1001
+ bar:1965 from:0 till:1253
+ bar:1975 from:0 till:1436
+ bar:1985 from:0 till:1659
+ bar:1995 from:0 till:1653
+ bar:2000 from:0 till:1676
+ bar:2005 from:0 till:1697
+ bar:2010 from:0 till:1720
+ bar:2012 from:0 till:1711
+ bar:2014 color:cobar2 from:0 till:1732
+
+PlotData=
+ textcolor:black fontsize:S
+ bar:1700 at: 30 text: 39,0 shift:(-8,5)
+ bar:1800 at: 63 text: 63,4 shift:(-8,5)
+ bar:1830 at: 140 text: 139,7 shift:(-11,5)
+ bar:1850 at: 164 text: 163,6 shift:(-11,5)
+ bar:1882 at: 383 text: 383,0 shift:(-11,5)
+ bar:1900 at: 686 text: 686,0 shift:(-11,5)
+ bar:1925 at: 1003 text: 1003,0 shift:(-14,5)
+ bar:1939 at: 1289 text: 1289,0 shift:(-14,5)
+ bar:1946 at: 479 text: 478,8 shift:(-11,5)
+ bar:1955 at: 1001 text: 1000,6 shift:(-14,5)
+ bar:1965 at: 1253 text: 1252,6 shift:(-14,5)
+ bar:1975 at: 1436 text: 1436,4 shift:(-14,5)
+ bar:1985 at: 1659 text: 1659,4 shift:(-14,5)
+ bar:1995 at: 1653 text: 1653,1 shift:(-14,5)
+ bar:2000 at: 1676 text: 1675,9 shift:(-14,5)
+ bar:2005 at: 1697 text: 1697,5 shift:(-14,5)
+ bar:2010 at: 1720 text: 1720,4 shift:(-14,5)
+ bar:2012 at: 1711 text: 1711,3 shift:(-14,5)
+ bar:2014 at: 1732 text: 1735,4 shift:(-14,5)
+</timeline>
 {{commons|Category:Warsaw}}
 
 [[Catégorie:Pōrana]]
