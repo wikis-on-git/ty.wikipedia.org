@@ -1,0 +1,290 @@
+[[Fichier:© Dominique Drouet-Montsoreau .jpg|thumb|right|250px|]]
+[[Fichier:Most beautiful villages of the world montsoreau 2.jpg|thumb|right|250px|]]
+
+’O '''Montsoreau''' te ’oire pū nō [[Farāni]]. Ua hau te 447 rahiraa taata (2015).
+
+<center>'''Montsoreau'''<ref name="fcass">[http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=23896 Des villages de Cassini aux communes d'aujourd'hui]</ref><ref>[https://www.statistiques-locales.insee.fr/#c=indicator&i=bdcom.pop&s=2015&selcodgeo=49219&view=map1 Recensement de la population au 1er janvier 2006]</ref><ref>[http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/commune.asp?depcom=49007&annee=2009 Recensement de la population]</ref><br></small>
+<timeline>
+Colors=
+ id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.7,0.9,0.7)
+ImageSize  = width:800 height:350
+PlotArea   = left:50 bottom:30 top:30 right:50
+DateFormat = x.y
+Period =from:0 till:1200
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:100 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1791
+  bar:1792
+  bar:1793
+  bar:1794
+  bar:1795
+  bar:1796
+  bar:1797
+  bar:1798
+  bar:1799
+  bar:1800 text:1800
+  bar:1801
+  bar:1802
+  bar:1803
+  bar:1804
+  bar:1805
+  bar:1806
+  bar:1807
+  bar:1808
+  bar:1809
+  bar:1810
+  bar:1811
+  bar:1812
+  bar:1813
+  bar:1814
+  bar:1815
+  bar:1816
+  bar:1817
+  bar:1818
+  bar:1819
+  bar:1820 text:1820
+  bar:1821
+  bar:1822
+  bar:1823
+  bar:1824
+  bar:1825
+  bar:1826
+  bar:1827
+  bar:1828
+  bar:1829
+  bar:1830
+  bar:1831
+  bar:1832
+  bar:1833
+  bar:1834
+  bar:1835
+  bar:1836
+  bar:1837
+  bar:1838
+  bar:1839
+  bar:1840 text:1840
+  bar:1841
+  bar:1842
+  bar:1843
+  bar:1844
+  bar:1845
+  bar:1846
+  bar:1847
+  bar:1848
+  bar:1849
+  bar:1850
+  bar:1851
+  bar:1852
+  bar:1853
+  bar:1854
+  bar:1855
+  bar:1856
+  bar:1857
+  bar:1858
+  bar:1859
+  bar:1860 text:1860
+  bar:1861
+  bar:1862
+  bar:1863
+  bar:1864
+  bar:1865
+  bar:1866
+  bar:1867
+  bar:1868
+  bar:1869
+  bar:1870
+  bar:1871
+  bar:1872
+  bar:1873
+  bar:1874
+  bar:1875
+  bar:1876
+  bar:1877
+  bar:1878
+  bar:1879
+  bar:1880 text:1880
+  bar:1881
+  bar:1882
+  bar:1883
+  bar:1884
+  bar:1885
+  bar:1886
+  bar:1887
+  bar:1888
+  bar:1889
+  bar:1890
+  bar:1891
+  bar:1892
+  bar:1893
+  bar:1894
+  bar:1895
+  bar:1896
+  bar:1897
+  bar:1898
+  bar:1899
+  bar:1900 text:1900
+  bar:1901
+  bar:1902
+  bar:1903
+  bar:1904
+  bar:1905
+  bar:1906
+  bar:1907
+  bar:1908
+  bar:1909
+  bar:1910
+  bar:1911
+  bar:1912
+  bar:1913
+  bar:1914
+  bar:1915
+  bar:1916
+  bar:1917
+  bar:1918
+  bar:1919
+  bar:1920 text:1920
+  bar:1921
+  bar:1922
+  bar:1923
+  bar:1924
+  bar:1925
+  bar:1926
+  bar:1927
+  bar:1928
+  bar:1929
+  bar:1930
+  bar:1931
+  bar:1932
+  bar:1933
+  bar:1934
+  bar:1935
+  bar:1936
+  bar:1937
+  bar:1938
+  bar:1939
+  bar:1940 text:1940
+  bar:1941
+  bar:1942
+  bar:1943
+  bar:1944
+  bar:1945
+  bar:1946
+  bar:1947
+  bar:1948
+  bar:1949
+  bar:1950
+  bar:1951
+  bar:1952
+  bar:1953
+  bar:1954
+  bar:1955
+  bar:1956
+  bar:1957
+  bar:1958
+  bar:1959
+  bar:1960 text:1960
+  bar:1961
+  bar:1962
+  bar:1963
+  bar:1964
+  bar:1965
+  bar:1966
+  bar:1967
+  bar:1968
+  bar:1969
+  bar:1970
+  bar:1971
+  bar:1972
+  bar:1973
+  bar:1974
+  bar:1975
+  bar:1976
+  bar:1977
+  bar:1978
+  bar:1979
+  bar:1980 text:1980
+  bar:1981
+  bar:1982
+  bar:1983
+  bar:1984
+  bar:1985
+  bar:1986
+  bar:1987
+  bar:1988
+  bar:1989
+  bar:1990
+  bar:1991
+  bar:1992
+  bar:1993
+  bar:1994
+  bar:1995
+  bar:1996
+  bar:1997
+  bar:1998
+  bar:1999
+  bar:2000 text:2000
+  bar:2001
+  bar:2002
+  bar:2003
+  bar:2004
+  bar:2005
+  bar:2006
+  bar:2007
+  bar:2008
+  bar:2009
+  bar:2010 text:2010
+  bar:2015
+PlotData=
+ color:barra width:10 align:left 
+ bar:1793 from:0 till: 746
+ bar:1800 from:0 till: 778
+ bar:1806 from:0 till: 790
+ bar:1821 from:0 till: 867
+ bar:1831 from:0 till: 987
+ bar:1836 from:0 till: 986
+ bar:1841 from:0 till: 1019
+ bar:1846 from:0 till: 1071
+ bar:1851 from:0 till: 1097
+ bar:1856 from:0 till: 937
+ bar:1861 from:0 till: 921
+ bar:1866 from:0 till: 851
+ bar:1872 from:0 till: 790
+ bar:1876 from:0 till: 752
+ bar:1881 from:0 till: 688
+ bar:1886 from:0 till: 655
+ bar:1891 from:0 till: 619
+ bar:1896 from:0 till: 584
+ bar:1901 from:0 till: 528
+ bar:1906 from:0 till: 494
+ bar:1911 from:0 till: 515
+ bar:1921 from:0 till: 452
+ bar:1926 from:0 till: 425
+ bar:1931 from:0 till: 425
+ bar:1936 from:0 till: 432
+ bar:1946 from:0 till: 504
+ bar:1954 from:0 till: 506
+ bar:1962 from:0 till: 570
+ bar:1966 from:0 till: 547
+ bar:1975 from:0 till: 503
+ bar:1982 from:0 till: 549
+ bar:1990 from:0 till: 461
+ bar:1999 from:0 till: 544
+ bar:2006 from:0 till: 503
+ bar:2010 from:0 till: 480
+ bar:2015 from:0 till: 449
+</timeline>
+</center>
+
+
+{{commons|Category:Montsoreau}}
+
+[[Catégorie:Farāni]]
+[[Catégorie:Montsoreau| ]]
+[[Catégorie:’Oire]]
